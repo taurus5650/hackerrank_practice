@@ -16,8 +16,5 @@ def task () :
         print ("Not Weird")
                 
         
-
-
-
 if __name__ == '__main__':
     task ()
